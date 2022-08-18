@@ -1,0 +1,11 @@
+--2022-08-17 03:01:50--  https://www.kaggle.com/datasets/oswinrh/bible?resource=download
+Resolving www.kaggle.com (www.kaggle.com)... 35.244.233.98
+Connecting to www.kaggle.com (www.kaggle.com)|35.244.233.98|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘bible?resource=download’
+
+bible?resource=download             [<=>                                                    ]       0  --.-KB/s               bible?resource=download             [ <=>                                                   ]  22.51K  --.-KB/s    in 0.003s  
+
+2022-08-17 03:01:50 (7.96 MB/s) - ‘bible?resource=download’ saved [23050]
+
